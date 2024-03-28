@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+
+# example 32
+
+=======
+
 # example 2
 
 # example 3
@@ -8,3 +14,8 @@
 
 new tes3
 new tes 4
+
+test
+jdj
+
+> > > > > > > new1
